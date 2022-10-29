@@ -2,6 +2,9 @@
 
 ### Built in React without permission from copyright holder.
 
+This is a fork of the following repository:
+https://github.com/BrianRedd/Pompeii
+
 ## Game Overview
 The Downfall of Pompeii (aka Pompeii) is played in two phases: In the first, you try to bring as many of your own people into the city as you can by playing Pompeii cards. If you play a house number 3, for example, you may put one of your people into a build with that number. There are 2 "AD 79" cards. As soon as the second AD 79 card appears, Vesuvius erupts and the second phase of the game begins. Now, move as many of your people out of the city through the gates as you can before lava tiles cover Pompeii. You win if you are the player who has saved the most of your own people before the end of the game.
 
